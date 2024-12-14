@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Model\Role.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Compile Include="C:\Users\Student\Desktop\Masud\New folder\HouseInformation.cs" Link="HouseInformation.cs" />
   </ItemGroup>
 
